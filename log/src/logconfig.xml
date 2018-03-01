@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<fileNumber value="20"/>
+	<filePath value="F://logs//"/>
+	<logLevel value="debug"/>
+	<fileSize value="1"/>
+	<appName value="log"/>
+	<fileName value="log"/>
+</config>
