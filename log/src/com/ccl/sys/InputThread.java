@@ -18,7 +18,6 @@ public class InputThread extends Thread {
 	private File file;
 	@Override
 	public void run() {
-		// TODO Auto-generated method stub
 		try
 		{
 			file = new File(propMap.get("filePath")+propMap.get("appName")+index+".log");
